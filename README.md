@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently improving my skills in **ReactJS, UI.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/charles-jullien-417a0816a/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
