@@ -10,7 +10,7 @@
 
 <a href="https://charles-jullien.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/ios/256/domain--v1.png" alt="https://charles-jullien.vercel.app/" height="30" width="40" />&nbsp;My CV Website</a>
   
- <a href="  https://lenster.xyz/u/charlesjullien" target="blank"><img align="center" src="https://icodrops.com/wp-content/uploads/2022/02/LensProtocol_logo-1.jpeg" alt="@charlesjullien" height="30" width="40" />&nbsp;My Lens profile</a>
+ <a href="https://lenster.xyz/u/charlesjullien" target="blank"><img align="center" src="https://icodrops.com/wp-content/uploads/2022/02/LensProtocol_logo-1.jpeg" alt="https://lenster.xyz/u/charlesjullien" height="30" width="40" />&nbsp;My Lens profile</a>
 
 </p>
 
