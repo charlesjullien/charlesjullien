@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles JULLIEN</h1>
 <h3 align="center">A blockchain developer,passionate about Web3 !</h3>
 
-- 🌱 I’m currently improving my skills in **ReactJS, UI.** And reviewing things in advanced **solidity** such as **security and Chainlink**
+- 🌱 I’m currently improving my skills in advanced **solidity** such as **proxy contracts and Chainlink**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
